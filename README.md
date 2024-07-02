@@ -10,10 +10,21 @@
 - [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
 
-## ❓Project Statement
-This project analyzes call center data to improve customer service quality, efficiency, and overall customer satisfaction.
+## ❓Problem Statement
+The call center is experiencing challenges in maintaining high levels of customer satisfaction and operational efficiency. There are concerns about the overall quality of customer interactions, 
+the effectiveness of issue resolution, and the allocation of resources across different regions. Additionally, the center faces difficulties in managing call volumes, optimizing call durations, a
+nd effectively utilizing various communication channels. These issues potentially impact customer loyalty, operational costs, and the overall performance of the call center.
 
 ## 🎯 Objective
+The primary objective is to identify:
+1. Assess and improve overall customer satisfaction levels across all interactions.
+2. Identify and address the root causes of common customer inquiries to reduce call volumes.
+3. Optimize call handling procedures to improve efficiency and resolution rates.
+4. Analyze regional performance variations to standardize best practices across all centers.
+5. Evaluate the effectiveness of different communication channels and optimize their usage.
+6. Develop strategies to enhance agent performance and reduce average call duration.
+7. Create a data-driven approach to resource allocation and staffing based on call patterns and regional needs.
+8. Identify opportunities to improve first-call resolution rates and adherence to Service Level Agreements (SLAs).
 
 ## 🛠️ Tools Used
 - **Analytical:**  MySQL\
