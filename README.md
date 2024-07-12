@@ -59,7 +59,7 @@ The primary objective is to identify:
 8. Analyze and replicate Denver's efficient call handling practices across other centers
 
 ## 🧠 Project Learnings
-1. Crreating new schema and table.
+1. Creating new schema and table.
 2. Group by.
 3. Sharpened analytical and problem-solving abilities.
 4. Strengthened strategic planning.
