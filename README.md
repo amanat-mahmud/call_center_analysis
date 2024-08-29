@@ -28,7 +28,7 @@ The primary objective is to identify:
 
 ## 🛠️ Tools Used
 - **Analytical:**  MySQL\
-  <img width="96" height="96" src="https://github.com/amanat-mahmud/Sales_Performance_Analysis_SQL/blob/main/icons8-mysql-96.png" alt="mysql-logo"/>
+  <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-mysql-96.png" alt="mysql-logo"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
